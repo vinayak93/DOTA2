@@ -1,5 +1,7 @@
 Vinayak's and Bhavya's Neural Network and CRF Files are in respective named folders.
-Note that CRF implementation can be found on the 1st page of the repository and Neural Networks can be found in named folders.
+Note that CRF implementation can also be found on the 1st page of the repository and Neural Networks can be found in named folders.
+
+Evaluation Results are in seperate Jupyter Notebook for Vinayak and are submitted in respective folders.
 
 More details pertaining to each implementation are either detailed in the project report or as docstrings in individual files.
 
